@@ -1,3 +1,3 @@
-alert("Olá mundo!")
+alert("Olá!")
 alert("Lucas")
 alert("oi")
